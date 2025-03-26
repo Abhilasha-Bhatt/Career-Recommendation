@@ -36,7 +36,8 @@ AI-powered career recommendation quiz that suggests the best career path based o
 ### Method 2: Download the Executable
 Click the button below to download the latest release:
 
-[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/Abhilasha-Bhatt/Career-Recommendation/releases/latest)
+[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/Abhilasha-Bhatt/Career-Recommendation/releases/download/Career_Recommendation/CAREER_RECOMMENDATION_SETUP.exe)
+
 
 ## 📜 Usage
 1. Run the application.
