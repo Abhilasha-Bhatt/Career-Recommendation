@@ -18,11 +18,11 @@ AI-powered career recommendation quiz that suggests the best career path based o
 ### Method 1: Run from Source Code
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/ai-career-quiz.git
+   git clone https://github.com/Abhilasha-Bhatt/Career-Recommendation.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ai-career-quiz
+   cd Career-Recommendation
    ```
 3. Install dependencies:
    ```sh
@@ -30,13 +30,13 @@ AI-powered career recommendation quiz that suggests the best career path based o
    ```
 4. Run the application:
    ```sh
-   python main.py
+   python quiz.py
    ```
 
 ### Method 2: Download the Executable
 Click the button below to download the latest release:
 
-[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/yourusername/ai-career-quiz/releases/latest)
+[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/Abhilasha-Bhatt/Career-Recommendation/releases/latest)
 
 ## 📜 Usage
 1. Run the application.
